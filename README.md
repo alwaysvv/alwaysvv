@@ -7,8 +7,7 @@
     ·X: https://x.com/N46_Tarnished
     ·Zhihu: @春天花会开joy
     ·bilibili: https://space.bilibili.com/429860214
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+  
 
 <!---
 alwaysvv/alwaysvv is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
